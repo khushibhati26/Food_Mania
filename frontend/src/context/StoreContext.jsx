@@ -6,7 +6,7 @@ export const StoreContext = createContext(null);
 const StoreContextProvider = (props) => {
   const [cartItems, setCartItems] = useState({});
 
-  const url ="https://food-mania-backend-z9uq.onrender.com";
+  const url ="https://food-mania-backend-nus5.onrender.com";
 
   
 
